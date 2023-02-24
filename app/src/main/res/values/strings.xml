@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+
+    <string name="repo">%d Repository</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="user_image">User Image</string>
+    <string name="icon_username">\@</string>
+    <string name="theme">Theme</string>
+    <string name="day_mode_or_night_mode">Day mode or night mode</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="link_github">Link Github</string>
+    <string name="settings">Settings</string>
+    <string name="github_users_search">Github User\'\s Search</string>
+    <string name="detail_user">Detail User (%s)</string>
+    <string name="favorites_list">Favorites List</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="search_other_user">Please find another user</string>
+    <string name="please_find_and_favorite_users">Please find and Favorite Users</string>
+    <string name="no_user_data_found">No User Data Found</string>
+    <string name="find_all_github_users">Find all Github users</string>
+    <string name="let_s_find_all_github_users_in_search_field">Let\'s Find all Github users in search field</string>
+    <string name="menu">Menu</string>
+    <string name="favorite">Favorite</string>
+    <string name="large_text">...</string>
+
+</resources>
